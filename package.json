@@ -1,0 +1,7 @@
+{
+  "name": "storyblok-download",
+  "version": "1.0.0",
+  "description": "A tool to download Storyblok data into a folder",
+  "main": "index.js",
+  "license": "MIT"
+}
