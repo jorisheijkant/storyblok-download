@@ -1,0 +1,33 @@
+{
+    "stories": [
+        {
+            "name": "Landing",
+            "created_at": "2023-01-22T18:50:49.823Z",
+            "published_at": "2023-01-22T18:55:18.351Z",
+            "id": 250448896,
+            "uuid": "a46dfbba-696b-42eb-9be1-cdb3495ad9fb",
+            "content": {
+                "_uid": "864b4e66-9932-49b0-8f4c-f0fe104293be",
+                "lead": "Van data tot eindproduct: op elk plekje in de keten denk ik graag mee. Ik scrape, onderzoek, programmeer en schrijf mee aan verhalen.  ",
+                "title": "Joris Heijkant",
+                "component": "page"
+            },
+            "slug": "landing",
+            "full_slug": "landing",
+            "sort_by_date": null,
+            "position": 0,
+            "tag_list": [],
+            "is_startpage": false,
+            "parent_id": null,
+            "meta_data": null,
+            "group_id": "782376d2-5fcf-4810-acff-58e8f4826a92",
+            "first_published_at": "2023-01-22T18:55:18.351Z",
+            "release_id": null,
+            "lang": "default",
+            "path": null,
+            "alternates": [],
+            "default_full_slug": null,
+            "translated_slugs": null
+        }
+    ]
+}
